@@ -25,6 +25,7 @@ JUSTICE LEAGUE | 17
 &nbsp; | 52
 JUSTICE LEAGUE *AMERICA* | 7
 &nbsp; | 15
+&nbsp; | *END (serie finita)*
 HARLEY QUINN SUICIDE SQUAD | 13
 &nbsp; | 37
 &nbsp; | 43
