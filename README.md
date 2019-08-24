@@ -8,6 +8,7 @@ Serie | Numero
 --- | ---
 BATMAN | 17
 &nbsp; | 34
+&nbsp; | 70
 SUPERMAN | 19
 &nbsp; | 30
 &nbsp; | 66
